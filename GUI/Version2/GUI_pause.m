@@ -1,2 +1,0 @@
-global pauseflag
-pauseflag = true;
