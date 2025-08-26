@@ -1,0 +1,2 @@
+global pauseflag
+pauseflag = true;
