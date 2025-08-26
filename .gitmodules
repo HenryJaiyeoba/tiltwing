@@ -1,0 +1,6 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/HenryJaiyeoba/ardupilot.git
+[submodule "gazebo_plugin"]
+	path = gazebo_plugin
+	url = https://github.com/HenryJaiyeoba/ardupilot_gazebo.git
